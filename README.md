@@ -80,6 +80,11 @@ You can use Git with the command line, but there are also GUI clients if you pre
 
 In addition to that, most IDEs have a Git plugin already installed (eg. Eclipse, IntelliJ, Visual Studio).
 
+### Interesting readings
+
+- [The Impact Github is Having on Your Software Career, Right Now...](https://medium.com/@sitapati/the-impact-github-is-having-on-your-software-career-right-now-6ce536ec0b50)
+- [Open Source Guides](https://opensource.guide/)
+
 ------
 
 Thanks for reading. 
